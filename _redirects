@@ -1,1 +1,11 @@
-# No redirects needed. Cloudflare Pages handles clean URLs natively.
+# Blog slug renames (301)
+/blog/freeze-thaw-clay-soil-burst-pipes/ /blog/freeze-thaw-burst-pipes-chester-pa/ 301
+/blog/freeze-thaw-clay-soil-burst-pipes /blog/freeze-thaw-burst-pipes-chester-pa/ 301
+/blog/pa-plumbing-licensing-explained/ /blog/plumbing-license-permit-chester-pa/ 301
+/blog/pa-plumbing-licensing-explained /blog/plumbing-license-permit-chester-pa/ 301
+/blog/sump-pumps-delaware-river-flood-risk/ /blog/sump-pump-flood-risk-chester-pa/ 301
+/blog/sump-pumps-delaware-river-flood-risk /blog/sump-pump-flood-risk-chester-pa/ 301
+/blog/widener-university-rental-plumbing/ /blog/widener-rental-plumbing-chester-pa/ 301
+/blog/widener-university-rental-plumbing /blog/widener-rental-plumbing-chester-pa/ 301
+/blog/what-counts-as-plumbing-emergency/ /blog/what-counts-as-plumbing-emergency-chester-pa/ 301
+/blog/what-counts-as-plumbing-emergency /blog/what-counts-as-plumbing-emergency-chester-pa/ 301
