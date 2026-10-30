@@ -185,3 +185,9 @@ main .node .sub{margin:0 auto 14px}
 .grid2{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
 .card{overflow-wrap:anywhere}
 @media(max-width:480px){.grid2,.grid2.wide{grid-template-columns:minmax(0,1fr)}}
+
+.foot-social{text-align:center;margin:0 0 18px}
+.foot-social p{font-weight:700;font-size:16px;margin-bottom:10px;color:var(--onyx)}
+.foot-social ul{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.foot-social a{display:inline-block;padding:8px 16px;border:1px solid var(--line);border-radius:100px;background:var(--card-bg);color:var(--onyx);text-decoration:none;font-size:15px;font-weight:600}
+.foot-social a:hover{border-color:var(--plat);color:var(--plat-d)}
